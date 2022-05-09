@@ -1,0 +1,13 @@
+*{
+    background-color: #303030;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    height: 100%;
+}
+
+h1{
+    color: #FFF;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 25px;
+}
